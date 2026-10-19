@@ -116,10 +116,6 @@ print(matrix)
    jupyter notebook
    ```
 
-6. Open `NumPy_Practice.ipynb` and run the cells.
-
-You can also upload the notebook to [Google Colab](https://colab.research.google.com/) and execute it in your browser.
-
 ## 🎓 Learning Outcomes
 
 Through this practice, I am developing my understanding of:
